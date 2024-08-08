@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate software developer currently studying CS at University of Waterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonh53&label=Profile%20views&color=0e75b6&style=flat" alt="jasonh53" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasonhonhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasonhonhk" height="30" width="40" /></a>
@@ -15,3 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonh53&show_icons=true&theme=dark&locale=en" alt="jasonh53" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonh53&label=Profile%20views&color=0e75b6&style=flat" alt="jasonh53" /> </p>
