@@ -11,6 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonh53&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasonh53" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonh53&show_icons=true&theme=dark&locale=en" alt="jasonh53" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonh53&label=Profile%20views&color=0e75b6&style=flat" alt="jasonh53" /> </p>
